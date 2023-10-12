@@ -1,0 +1,20 @@
+main {
+    display: flex;
+}
+section {
+    flex: 1;
+    padding: 20px;
+}
+.card {
+    width: 100%;
+}
+
+
+
+footer {
+    background: #1b2a4e;
+    min-height: 100px; 
+    color: whitesmoke;
+}
+
+
